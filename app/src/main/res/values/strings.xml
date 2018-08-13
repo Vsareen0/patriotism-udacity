@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Patriotism</string>
+    <string name="independence">72 years of Independence</string>
+    <string name="memory">In the loving memory of our brave freedom fighters.</string>
+    <string name="quote">One individual may die for an idea, but that idea will after his death, incarnate itself in a thousand lives</string>
+
+    <string-array name="aboutThisDay">
+        <item>The date, 15th of August from 1947 in India has become a</item>
+        <item>very important day in the Indian history. It was the luckiest</item>
+        <item>day of year 1947 when India became independent after</item>
+        <item>lots of hard struggle and sacrifices of the Indian freedom</item>
+        <item>fighters. We won freedom after a hard struggle. When India</item>
+        <item>got its independence, the public of India had chosen their</item>
+        <item>first Prime Minister, Pundit Jawaharlal Nehru who had</item>
+        <item>unfurled the tricolour National Flag at the Red Fort in the</item>
+        <item>national capital, New Delhi for the first time. All the people</item>
+        <item>rejoice this special day with great joy every year.</item>
+    </string-array>
+
+    <string-array name="quotes">
+        <item>Long years ago, we made a tryst with destiny and now the time comes
+when we shall redeem our pledge… At the stroke of the midnight hour,
+when the world sleeps, India will awake to life and freedom. –
+Jawaharlal Nehru</item>
+
+        <item>So long as you do not achieve social liberty, whatever freedom is
+provided by the law is of no avail to you…
+B.R. Ambedkar</item>
+
+        <item>India is a country in which every great religion finds a home.
+Anni Besant</item>
+
+        <item>Don’t see others doing better than you, beat your own records
+everyday, because success is a fight between you and yourself.
+Chandra Shekhar Azad</item>
+
+        <item>Patriotism is religion and religion is love for India. Bankim Chandra  Chatterjee</item>
+
+        <item>If yet your blood does not rage, then it is water that flows in your
+veins. For what is the flush of youth, if it is not of service to the
+motherland. – Chandra Shekhar Azad</item>
+
+        <item>There is no dream, and if there is, there is only one to see you my
+children struggling for the same and for which I am expected to be
+finished.
+Ashfaqulla Khan</item>
+
+        <item>The sanctity of law can be maintained only so long as it is the
+expression of the will of the people.
+Bhagat Singh</item>
+
+        <item>First they ignore you, then they laugh at you, then they fight you, then you win.
+Mahatma Gandhi</item>
+
+        <item>In attaining our ideals, our means should be as pure as the end
+Dr. Rajendra Prasad</item>
+
+        <item>The shots that hit me are the last nails to the coffin of British rule in India.
+Lala Lajpat Rai.</item>
+
+        <item>An eye for an only ends up making the whole world blind.
+Mahatma Gandhi</item>
+
+        <item>Swaraj is my birth right and I shall have it.
+Bal Gangadhar Tilak</item>
+
+        <item>A country’s greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race.
+Sarojini Naidu</item>
+
+        <item>‘We believe in peace and peaceful development, not only for ourselves but for people all over the world.
+Lal Bahadur Shastri</item>
+
+        <item>Life should be great rather than long.
+B. R. Ambedkar</item>
+
+        <item>Give me blood and I will give you freedom.
+Subhash Chandra Bose</item>
+
+        <item>Bombs and pistols do not make a revolution. The sword of revolution is sharpened on the whetting-stone of ideas.
+Bhagat Singh</item>
+
+        <item>Every Indian should now forget that he is a Rajput, a Sikh or a Jat. He must remember that he is an Indian.
+Sardar Patel</item>
+
+        <item>You have to dream before your dreams can come true.
+Maulana Abul Kalam Azad</item>
+    </string-array>
+
+</resources>
